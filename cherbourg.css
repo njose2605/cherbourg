@@ -1,0 +1,32 @@
+body{
+    background-color: auto;
+}
+.jose{
+    text-align: center;
+    color: white;
+    padding: 150px;
+    background-image: url('https://cdn.pixabay.com/photo/2016/11/14/15/13/black-1823790_960_720.jpg');
+    
+}
+.rohan{
+    text-decoration: solid;
+    color: blue;
+}
+.para{
+    text-shadow: 0cqw;
+}
+.div{
+    color: crimson;
+    text-decoration: underline;
+}
+.ul{
+    color: rgb(83, 220, 20);
+}
+.img {
+    display: inline-block;
+}
+.life{
+    text-align: center;
+    text-decoration: underline;
+    color: aqua;
+}
